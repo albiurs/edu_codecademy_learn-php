@@ -20,16 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d810663-b3b0-4ea7-a269-fdf45a5a48cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/edu_codecademy_learn-php.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_introduction/01_introduction_to_php.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/01_introduction/01_introduction_to_php_to-do-list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_variables/variables_numbers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_variables/variables_strings-and-variables.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02_variables/variables_world-traveler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_functions/Mad-lib-unctions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/03_functions/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_functions/Mad-lib-unctions.php" beforeDir="false" afterPath="$PROJECT_DIR$/03_functions/Mad-lib-unctions.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +64,7 @@
       <workItem from="1598442145216" duration="111000" />
       <workItem from="1598442263119" duration="176000" />
       <workItem from="1598442490708" duration="30000" />
+      <workItem from="1598442522633" duration="848000" />
     </task>
     <servers />
   </component>
