@@ -20,9 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d810663-b3b0-4ea7-a269-fdf45a5a48cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04_php_built-in_functions/php_built-in_functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/04_php_built-in_functions/the_hitchhikers_guide_to_php_math_functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ordered_arrays/accessing_elements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ordered_arrays/adding_and_changing_elements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ordered_arrays/creating_arrays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ordered_arrays/nested_arrays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ordered_arrays/printing_arrays.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ordered_arrays/pushing_and_popping.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/05_ordered_arrays/shifting_and_unshifting.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_code.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +55,11 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +72,11 @@
       <workItem from="1598442145216" duration="111000" />
       <workItem from="1598442263119" duration="176000" />
       <workItem from="1598442490708" duration="30000" />
-      <workItem from="1598442522633" duration="5592000" />
+      <workItem from="1598442522633" duration="5736000" />
+      <workItem from="1598939552284" duration="2473000" />
+      <workItem from="1598956127882" duration="320000" />
+      <workItem from="1598963692714" duration="19000" />
+      <workItem from="1598964030189" duration="5403000" />
     </task>
     <servers />
   </component>
@@ -91,9 +102,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="539" y="392" key="NewPhpFileDialog" timestamp="1598445727042">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="2398" y="619" key="NewPhpFileDialog" timestamp="1598970323874">
+      <screen x="1440" y="23" width="2560" height="1417" />
     </state>
+    <state x="2398" y="619" key="NewPhpFileDialog/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1598970323874" />
     <state x="539" y="392" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1598445727042" />
     <state x="221" y="100" key="SettingsEditor" timestamp="1598444766823">
       <screen x="0" y="23" width="1440" height="877" />
