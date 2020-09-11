@@ -20,9 +20,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d810663-b3b0-4ea7-a269-fdf45a5a48cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/04_php_built-in_functions/php_built-in_functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/02_Request Superglobals.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/03_GET_form_handling.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/04_POST_form_handling.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/05_using_the_action_attribute.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/06_Review.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/07_project_html-php_calculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/addition.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/division.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/greet_user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/result_add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/result_div.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/08_html_form_handling_in_php/01_introduction.php" beforeDir="false" afterPath="$PROJECT_DIR$/08_html_form_handling_in_php/01_introduction.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +41,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -47,12 +64,18 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/associative_arrays" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -65,7 +88,12 @@
       <workItem from="1598442145216" duration="111000" />
       <workItem from="1598442263119" duration="176000" />
       <workItem from="1598442490708" duration="30000" />
-      <workItem from="1598442522633" duration="5592000" />
+      <workItem from="1598442522633" duration="5736000" />
+      <workItem from="1598939552284" duration="2473000" />
+      <workItem from="1598956127882" duration="320000" />
+      <workItem from="1598963692714" duration="19000" />
+      <workItem from="1598964030189" duration="6266000" />
+      <workItem from="1599026139674" duration="23552000" />
     </task>
     <servers />
   </component>
@@ -91,13 +119,17 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="539" y="392" key="NewPhpFileDialog" timestamp="1598445727042">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="326" y="-821" key="NewPhpFileDialog" timestamp="1599057202274">
+      <screen x="-632" y="-1417" width="2560" height="1417" />
     </state>
+    <state x="326" y="-821" key="NewPhpFileDialog/0.23.1440.877/-632.-1417.2560.1417@-632.-1417.2560.1417" timestamp="1599057202274" />
+    <state x="2398" y="619" key="NewPhpFileDialog/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1599027471502" />
     <state x="539" y="392" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1598445727042" />
-    <state x="221" y="100" key="SettingsEditor" timestamp="1598444766823">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state x="-239" y="-1293" key="SettingsEditor" timestamp="1599029884095">
+      <screen x="-632" y="-1417" width="2560" height="1417" />
     </state>
+    <state x="-239" y="-1293" key="SettingsEditor/0.23.1440.877/-632.-1417.2560.1417@-632.-1417.2560.1417" timestamp="1599029884095" />
+    <state x="1833" y="147" key="SettingsEditor/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1599027153880" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598444766823" />
   </component>
 </project>
