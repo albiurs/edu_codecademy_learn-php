@@ -20,31 +20,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d810663-b3b0-4ea7-a269-fdf45a5a48cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/01_if_statements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/02_comparison_operators.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/03_identical_and_not_identical_operators.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/04_Elseif Statements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/05_Switch Statement.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/06_Switch_Statements_-_Fall_through.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/07_Ternary_Operator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/08_Truthy_and_Falsy.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/09_User_Input_-_readline.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/10_project_Magic_8_Ball.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/11_project_PHP_number_guessing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/01_Nested Conditional Statements.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/02_the_OR_operator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/03_the_AND_operator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/04_the_NOT_operator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/05_the_XOR_operator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/changeLocation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/cookSoup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/eatSoup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/gameRound.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/lookAround.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/moveCupboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/pee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/pickMushrooms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/printHelp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/printStatus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/searchSafe.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/06_alternate_syntax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/07_Multi-File_Programs_-_include.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_associative_arrays/accessing_and_adding_elements.php" beforeDir="false" afterPath="$PROJECT_DIR$/06_associative_arrays/03_accessing_and_adding_elements.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_associative_arrays/assign_by_Value_or_by_Reference.php" beforeDir="false" afterPath="$PROJECT_DIR$/06_associative_arrays/07_assign_by_Value_or_by_Reference.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_associative_arrays/basics.php" beforeDir="false" afterPath="$PROJECT_DIR$/06_associative_arrays/01_associative_arrays.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_associative_arrays/changing_and_removing_elements.php" beforeDir="false" afterPath="$PROJECT_DIR$/06_associative_arrays/04_changing_and_removing_elements.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_associative_arrays/joining_arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/06_associative_arrays/06_joining_arrays.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_associative_arrays/numerical_keys.php" beforeDir="false" afterPath="$PROJECT_DIR$/06_associative_arrays/05_numerical_keys.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/06_associative_arrays/printing_associative_arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/06_associative_arrays/02_printing_associative_arrays.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/07_php_and_html/02_php_in_html.php" beforeDir="false" afterPath="$PROJECT_DIR$/07_php_and_html/02_php_in_html.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +102,13 @@
       <workItem from="1599565628476" duration="9798000" />
       <workItem from="1599655851065" duration="4335000" />
       <workItem from="1600147266826" duration="5000" />
+      <workItem from="1600152490426" duration="2514000" />
+      <workItem from="1600163457337" duration="615000" />
+      <workItem from="1600172013673" duration="597000" />
+      <workItem from="1600678883213" duration="1544000" />
+      <workItem from="1600753375097" duration="511000" />
+      <workItem from="1600768063607" duration="5534000" />
+      <workItem from="1601273257309" duration="8790000" />
     </task>
     <servers />
   </component>
@@ -137,10 +134,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="352" y="-821" key="NewPhpFileDialog" timestamp="1599660692892">
+    <state x="412" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600153643939">
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="352" y="-821" key="NewPhpFileDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1599660692892" />
+    <state x="412" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1600153643939" />
+    <state x="352" y="-821" key="NewPhpFileDialog" timestamp="1601275548078">
+      <screen x="-606" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="352" y="-821" key="NewPhpFileDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1601275548078" />
     <state x="326" y="-821" key="NewPhpFileDialog/0.23.1440.877/-632.-1417.2560.1417@-632.-1417.2560.1417" timestamp="1599575065695" />
     <state x="2398" y="619" key="NewPhpFileDialog/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1599027471502" />
     <state x="539" y="392" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1598445727042" />
