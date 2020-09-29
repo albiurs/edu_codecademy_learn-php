@@ -20,21 +20,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d810663-b3b0-4ea7-a269-fdf45a5a48cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/changeLocation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/cookSoup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/eatSoup.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/gameRound.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/lookAround.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/moveCupboard.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/pee.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/pickMushrooms.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/printHelp.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/printStatus.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10.1_project_save_the_farm/searchSafe.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/06_alternate_syntax.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/07_Multi-File_Programs_-_include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_loops/01_while.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_loops/02_do_while.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_loops/03_for.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_loops/04_foreach.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_loops/05_break_and_continue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_loops/06_review.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_loops/11.1_project_FizzBuzz/fizzBuzz.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_loops_in_html/01_why_use_shorthand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_loops_in_html/02_loop_shorthand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_loops_in_html/03_code_block_consideration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_loops_in_html/04_review.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12_loops_in_html/12.1_project_repetitive_cafe/repetitive_cafe.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_associative_arrays/01_associative_arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/06_associative_arrays/01_associative_arrays.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/changeLocation.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/changeLocation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/cookSoup.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/cookSoup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/eatSoup.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/eatSoup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/gameRound.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/gameRound.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/lookAround.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/lookAround.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/moveCupboard.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/moveCupboard.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/pee.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/pee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/pickMushrooms.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/pickMushrooms.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/printHelp.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/printHelp.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/printStatus.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/printStatus.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10.1_project_save_the_farm/searchSafe.php" beforeDir="false" afterPath="$PROJECT_DIR$/10_logical_operators_and_compound_conditions/10.1_project_save_the_farm/searchSafe.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,6 +87,9 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/10_logical_operators_and_compound_conditions" />
+      <recent name="$PROJECT_DIR$/11_loops" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/associative_arrays" />
     </key>
   </component>
@@ -109,6 +123,8 @@
       <workItem from="1600753375097" duration="511000" />
       <workItem from="1600768063607" duration="5534000" />
       <workItem from="1601273257309" duration="8790000" />
+      <workItem from="1601287351480" duration="48000" />
+      <workItem from="1601358196853" duration="11389000" />
     </task>
     <servers />
   </component>
@@ -138,10 +154,10 @@
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
     <state x="412" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1600153643939" />
-    <state x="352" y="-821" key="NewPhpFileDialog" timestamp="1601275548078">
+    <state x="352" y="-821" key="NewPhpFileDialog" timestamp="1601372944760">
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="352" y="-821" key="NewPhpFileDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1601275548078" />
+    <state x="352" y="-821" key="NewPhpFileDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1601372944760" />
     <state x="326" y="-821" key="NewPhpFileDialog/0.23.1440.877/-632.-1417.2560.1417@-632.-1417.2560.1417" timestamp="1599575065695" />
     <state x="2398" y="619" key="NewPhpFileDialog/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1599027471502" />
     <state x="539" y="392" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1598445727042" />
