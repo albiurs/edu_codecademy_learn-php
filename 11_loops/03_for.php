@@ -31,6 +31,7 @@ for ($count = 1; $count < 11; $count++)
 //After 10 iterations, the value of the $count variable is 11. This makes the second expression FALSE and the loop execution terminates.
 
 
+
 // own code
 for ($i = 10; $i >= 0; $i--) {
     if ($i === 2) {
@@ -43,3 +44,42 @@ for ($i = 10; $i >= 0; $i--) {
         echo $i . "\n";
     }
 }
+
+
+
+// examples
+$food = array('Obst' => array('Orange', 'Banane', 'Apfel'),
+    'Gemüse' => array('Karotte', 'Kohl', 'Erbse'));
+
+// rekursiv zählen
+echo count($food, COUNT_RECURSIVE); // gibt 8 aus
+
+// normales zählen
+echo count($food); // gibt 2 aus
+
+
+
+// for-loop with count()
+$pastries = [
+    "Croissant",
+    "Muffin",
+    "Slice of Pie",
+    "Slice of Cake",
+    "Cupcake",
+    "Brownie"
+];
+
+?>
+
+<h1>Welcome to the Repetitive Cafe</h1>
+
+<h3>Pastries! ($2 each)</h3>
+<ul>
+    <?php
+    for ($i=0; $i<count($pastries); $i++) {
+
+    }
+    ?>
+</ul>
+
+

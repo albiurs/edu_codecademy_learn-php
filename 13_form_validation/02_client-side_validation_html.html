@@ -1,0 +1,42 @@
+<!--Client-side Validation: HTML-->
+
+<!--The first technique we can use to validate form data is to prevent problematic inputs from being submitted in the first place. This is called client-side validation. The client is the process interacting with the server on behalf of a user—in the case of websites, the web browser is the client. The logic for validating the form is included with the code that displays the form on the user’s device. No interaction with the back-end is required to perform client-side validations.-->
+
+<!--Since form validation is so common, modern HTML provides some of these validation features built-in. For example, we can use HTML to make parts of a form required and others optional. We can also use HTML to set minimum and maximum values for an input or minimum or maximum lengths for a text input. We can even necessitate that the input match a particular pattern, specified by a regular expression.-->
+
+<!--If any of the rules laid out in the HTML form validation aren’t followed,
+the user will not be able to submit their form, and they’ll receive an error message explaining why.
+With these checks in place, the back-end is less likely to be sent incorrect data. HTML form validation will also
+benefit the user—the client provides the user immediate feedback, without having to wait for time-consuming
+communication with the back-end.-->
+
+
+<!--The provided HTML form has three input fields that are required. Try submitting the form without any one of them. Notice now a message appears on the form. We didn’t have to design that ourselves. It’s built into HTML.-->
+
+<!--Each input has additional requirements.-->
+
+<!--The "name" input requires a text input with a length between 3 and 100.-->
+<!--The "age" input requires a number value between 1 and 123.-->
+<!--The "code" input requires an input of either Codecademy or codecademy.-->
+
+<!--Try out the form with correct and incorrect inputs for each field.-->
+
+
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<body>
+<h1>Basic HTML Validation</h1>
+<form action="" method="POST">
+    <label for="name">Enter your name here:</label>
+    <input id="name" name="name" type="text" required minlength="3" maxlength="100">
+    <br><br>
+    <label for="age">Enter your age here:</label>
+    <input type="number" name="age" id="age" required min="1" max="123">
+    <br><br>
+    <label for="code">Best place to learn to code: (hint: starts with a "C")</label>
+    <input id="code" name="code" type="text" required pattern="[cC]odecademy">
+    <br><br>
+    <input type="submit" value="Submit">
+</form>
+</body>
+</html>
