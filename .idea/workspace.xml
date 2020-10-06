@@ -20,9 +20,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d810663-b3b0-4ea7-a269-fdf45a5a48cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/project_bobby-tables/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/00_introduction.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/01_what_are_classes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/02_instantiating.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/04_methods.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/05_constructor_method__-__construct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/06_inheritance__extends.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/07_overloading_methods_-_equivalent_to_overriding.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/08_visibility_-_private_members.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/09_visibiltity_-_protected_members.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/10_getters_and_setters__ucfirst.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/11_static_members.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cheat_sheets/16_classes_and_objects.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_introduction_into_form_validation/11_review.php" beforeDir="false" afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/11_review.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cheat_sheets/php_form_validation_and regex.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/cheat_sheets/14_15_php_form_validation_and regex.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +117,7 @@
       <workItem from="1601445285364" duration="9010000" />
       <workItem from="1601531008738" duration="11573000" />
       <workItem from="1601878280246" duration="9082000" />
-      <workItem from="1601963100183" duration="5763000" />
+      <workItem from="1601963100183" duration="12296000" />
     </task>
     <servers />
   </component>
@@ -136,10 +147,10 @@
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
     <state x="412" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1600153643939" />
-    <state x="352" y="-821" key="NewPhpFileDialog" timestamp="1601967780882">
+    <state x="352" y="-821" key="NewPhpFileDialog" timestamp="1601978265892">
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="352" y="-821" key="NewPhpFileDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1601967780882" />
+    <state x="352" y="-821" key="NewPhpFileDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1601978265892" />
     <state x="326" y="-821" key="NewPhpFileDialog/0.23.1440.877/-632.-1417.2560.1417@-632.-1417.2560.1417" timestamp="1599575065695" />
     <state x="2398" y="619" key="NewPhpFileDialog/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1599027471502" />
     <state x="539" y="392" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1598445727042" />
