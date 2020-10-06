@@ -56,12 +56,11 @@ $month_error = "";
 $day_error = "";
 $year_error = "";
 
-// Create your variables here:
+// Define valid Int ranges for year, month and day
 $month_options = ["options" => ["min_range" => 1, "max_range" => 12]];
 $day_options = ["options" => ["min_range" => 1, "max_range" => 31]];
 $year_options = ["options" => ["min_range" => 1903, "max_range" => 2020]];
 
-// Define your function here:
 function validateInput($type, &$error, $options_arr) {
     if (!filter_var($_POST[$type], FILTER_VALIDATE_INT, $options_arr)) {
         $error = "* Invalid ${type}";

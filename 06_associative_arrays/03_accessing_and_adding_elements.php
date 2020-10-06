@@ -8,6 +8,7 @@ echo $my_array["panda"]; // Prints: very cute
 /*In the code above, we accessed the value "very cute" using its key, "panda".
 To add new elements to an associative array, we use the assignment operator (=):*/
 
+// add element to array:
 $my_array["capybara"] = "cutest";
 echo $my_array["capybara"]; // Prints: cutest
 

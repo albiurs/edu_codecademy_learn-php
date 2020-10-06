@@ -34,7 +34,8 @@ preg_match($pattern, "555-2222"); // Returns: 0
 //
 //We can use the built-in PHP
 // strlen()
-// function (https://www.php.net/manual/en/function.strlen.php) to check the length of a given input. Ultimately, the acceptable input length is a judgement call for the
+// function (https://www.php.net/manual/en/function.strlen.php) to check the length of a given input. Ultimately, the
+// acceptable input length is a judgement call for the
 // web engineer. In this example, we chose 100 characters, but some names can be much longer.
 
 $name = "Aisle Nevertell";
@@ -46,9 +47,8 @@ if ($length > 2 && $length < 100){
 ?>
 
 
+
 <!--Let’s perform some custom validations!-->
-
-
 <?php
 $feedback = "";
 $success_message = "Thank you for your donation!";
@@ -58,23 +58,33 @@ $card_type = "";
 $card_num = "";
 $donation_amount = "";
 
+$regex_mastercard = "/5[1-5][0-9]{14}/";            // e.g. 52323232323232323232323232323
+$regex_visa = "/4[0-9]{12}([0-9]{3})?([0-9]{3})?/"; // e.g. 4777777777777333888
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
+
     $card_type = $_POST["credit"];
     $card_num = $_POST["card-num"];
     $donation_amount = $_POST["amount"];
 
-// Write your code here:
+    // credit card validation
+    if (strlen($card_num) < 100) {
 
+        if ($card_type === "mastercard" && preg_match($regex_mastercard, $card_num)) {
+            $feedback = $success_message;
+        } elseif ($card_type === "visa" && preg_match($regex_visa, $card_num)) {
+            $feedback = $success_message;
+        } else {
+            $feedback = $error_message;
+        }
 
-
-
-
-
-
-
-
+    } else {
+        $feedback = $error_message;
+    }
 }
 ?>
+
+
 <form action="" method="POST">
     <h1>Make a donation</h1>
     <label for="amount">Donation amount?</label>

@@ -20,36 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d810663-b3b0-4ea7-a269-fdf45a5a48cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13_form_validation/00_introduction_to_form_validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_form_validation/01_regular_expressions.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_form_validation/02_client-side_validation_html.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_form_validation/03_client-side_validation_javascript.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13_form_validation/04_back-end_validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/00_introduction.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/01_literals.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/02_alternation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/04_character_sets.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/05_wildcards.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/06_ranges.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/07_shorthanded_character_sets.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/08_grouping.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/09_quantifiers.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/10_quantifiers_optional.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/11_quantifiers_0-or-more_1-or-more.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/12_anchors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/13_review.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/00_introduction.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/01_form_handling.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/02_simple_validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/03_basic_data_sanitizing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/04_basic_sanitization_with_filter_var.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/05_basic_validation_with_filter_var.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/06_using_options_with_filtter_var.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/07_custom_validations.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheat_sheets/php_form_validation_and regex.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/08_validating-against-backend-data__isset__login-vaidation-exercise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/09_sanitizing-for-backend-storage__preg_replace.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/10_rerouting.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_loops/03_for.php" beforeDir="false" afterPath="$PROJECT_DIR$/11_loops/03_for.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/12_loops_in_html/12.1_project_repetitive_cafe/repetitive_cafe.php" beforeDir="false" afterPath="$PROJECT_DIR$/12_loops_in_html/12.1_project_repetitive_cafe/repetitive_cafe.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/06_associative_arrays/03_accessing_and_adding_elements.php" beforeDir="false" afterPath="$PROJECT_DIR$/06_associative_arrays/03_accessing_and_adding_elements.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_introduction_to_regular_expressions/10_quantifiers_optional.php" beforeDir="false" afterPath="$PROJECT_DIR$/14_introduction_to_regular_expressions/10_quantifiers_optional.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_introduction_into_form_validation/02_simple_validation.php" beforeDir="false" afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/02_simple_validation__REQUEST_METHOD-POST__strslower.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_introduction_into_form_validation/03_basic_data_sanitizing.php" beforeDir="false" afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/03_basic_data_sanitizing__trim__htmlspecialchars.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_introduction_into_form_validation/04_basic_sanitization_with_filter_var.php" beforeDir="false" afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/04_basic-sanitization-with-filter-var__FILTER_SANITIZE_EMAIL__FILTER_SANITIZE_INT.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_introduction_into_form_validation/05_basic_validation_with_filter_var.php" beforeDir="false" afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/05_basic_validation_with_filter_var__FILTER_VALIDATE_EMAIL__FILTER_VALIDATE_URL.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_introduction_into_form_validation/06_using_options_with_filtter_var.php" beforeDir="false" afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/06_using_options_with_filtter_var__FILTER_VALIDATE_INT.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_introduction_into_form_validation/07_custom_validations.php" beforeDir="false" afterPath="$PROJECT_DIR$/15_introduction_into_form_validation/07_custom_validations__regex__preg_match__strlen.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +73,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/15_introduction_into_form_validation" />
       <recent name="$PROJECT_DIR$/10_logical_operators_and_compound_conditions" />
       <recent name="$PROJECT_DIR$/11_loops" />
       <recent name="$PROJECT_DIR$" />
@@ -130,7 +113,9 @@
       <workItem from="1601287351480" duration="48000" />
       <workItem from="1601358196853" duration="11578000" />
       <workItem from="1601445285364" duration="9010000" />
-      <workItem from="1601531008738" duration="11139000" />
+      <workItem from="1601531008738" duration="11573000" />
+      <workItem from="1601878280246" duration="9082000" />
+      <workItem from="1601963100183" duration="2265000" />
     </task>
     <servers />
   </component>
@@ -160,10 +145,10 @@
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
     <state x="412" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1600153643939" />
-    <state x="352" y="-821" key="NewPhpFileDialog" timestamp="1601543202865">
+    <state x="352" y="-821" key="NewPhpFileDialog" timestamp="1601966125932">
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="352" y="-821" key="NewPhpFileDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1601543202865" />
+    <state x="352" y="-821" key="NewPhpFileDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1601966125932" />
     <state x="326" y="-821" key="NewPhpFileDialog/0.23.1440.877/-632.-1417.2560.1417@-632.-1417.2560.1417" timestamp="1599575065695" />
     <state x="2398" y="619" key="NewPhpFileDialog/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1599027471502" />
     <state x="539" y="392" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1598445727042" />
@@ -173,9 +158,9 @@
     <state x="-239" y="-1293" key="SettingsEditor/0.23.1440.877/-632.-1417.2560.1417@-632.-1417.2560.1417" timestamp="1599029884095" />
     <state x="1833" y="147" key="SettingsEditor/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1599027153880" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598444766823" />
-    <state x="339" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1601542104562">
+    <state x="339" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1601886484132">
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
-    <state x="339" y="-1092" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1601542104562" />
+    <state x="339" y="-1092" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1601886484132" />
   </component>
 </project>
