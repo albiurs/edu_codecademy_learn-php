@@ -37,7 +37,6 @@ function setName($name) {
 function getName() {
     return ucfirst($this->name);
 }
-
 ?>
 
 

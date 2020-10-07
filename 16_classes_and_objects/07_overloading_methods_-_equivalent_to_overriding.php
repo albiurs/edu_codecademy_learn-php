@@ -21,7 +21,9 @@ class Dog extends Pet2{
     }
 }
 
-//We can call the parent’s definition of the method within the subclass using parent:: followed by the method name:
+//We can call the parent’s definition of the method within the subclass using
+// parent::
+// followed by the method name:
 
 class Dog2 extends Pet2{
     function type() {

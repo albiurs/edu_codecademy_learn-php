@@ -2,7 +2,9 @@
 
 //Static Members
 //
-//Instantiating objects is the most common way to use classes and is also the most in-line with OOP principles. Sometimes though, it can be useful to group a set of utility functions and variables together into a single class. Since these don’t change for every instance, we don’t need to instantiate them. We can use them statically.
+//Instantiating objects is the most common way to use classes and is also the most in-line with OOP principles.
+// Sometimes though, it can be useful to group a set of utility functions and variables together into a single class.
+// Since these don’t change for every instance, we don’t need to instantiate them. We can use them statically.
 //
 //When a member is intended to be used statically, we add the keyword static to its definition.
 //
@@ -16,7 +18,12 @@ class StringUtils {
     }
 }
 
-//Accessing these static members is done a little differently than with objects. We need to use the Scope Resolution Operator (::). This can be thought of as switching briefly into the scope of the class itself. Since we are inside the scope, we access properties with the dollar sign. For example:
+// Accessing these static members is done a little differently than with objects. We need to use the
+// Scope Resolution Operator:
+// ::
+// (https://www.php.net/manual/en/language.oop5.paamayim-nekudotayim.php).
+// This can be thought of as switching briefly into the scope of the class itself. Since we are inside the scope, we
+// access properties with the dollar sign. For example:
 
 echo StringUtils::$max_number_of_characters; # Prints "80"
 
@@ -26,15 +33,19 @@ echo StringUtils::uclast("hello world"); # Prints "hello worlD"
 
 ?>
 
-<?php
-class AdamsUtils
-{
-    public $the_answer = 42;
 
-    public function addTowel($string)
-    {
+
+
+<?php
+class AdamsUtils {
+    public static $the_answer = 42;
+
+    public static function addTowel($string) {
         return $string . " and a towel.";
     }
 }
 
 $items = "I brought apples";
+
+echo AdamsUtils::$the_answer;
+echo AdamsUtils::addTowel($items);
