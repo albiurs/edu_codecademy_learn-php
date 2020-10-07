@@ -20,18 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8d810663-b3b0-4ea7-a269-fdf45a5a48cc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/12_review.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16_classes_and_objects/project_going_to_bed/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheat_sheets/01_Getting_Started_with_PHP.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheat_sheets/02_Learn_PHP_Variables.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheat_sheets/03_Introduction_to_Functions_in_PHP.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheat_sheets/04_PHP_Built-in_Functions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cheat_sheets/05_Learn_PHP_Arrays.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01-05_project_bobs_budget/project_bobs_budget.php" beforeDir="false" afterPath="$PROJECT_DIR$/05_ordered_arrays/01-05_project_bobs_budget/project_bobs_budget.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_classes_and_objects/07_overloading_methods_-_equivalent_to_overriding.php" beforeDir="false" afterPath="$PROJECT_DIR$/16_classes_and_objects/07_overloading_methods_-_equivalent_to_overriding.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_classes_and_objects/10_getters_and_setters__ucfirst.php" beforeDir="false" afterPath="$PROJECT_DIR$/16_classes_and_objects/10_getters_and_setters__ucfirst.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_classes_and_objects/11_static_members.php" beforeDir="false" afterPath="$PROJECT_DIR$/16_classes_and_objects/11_static_members.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_variables/variables_numbers.php" beforeDir="false" afterPath="$PROJECT_DIR$/02_variables/02_numbers.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_variables/variables_strings-and-variables.php" beforeDir="false" afterPath="$PROJECT_DIR$/02_variables/01_strings-and-variables.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02_variables/variables_world-traveler.php" beforeDir="false" afterPath="$PROJECT_DIR$/02_variables/project_world-traveler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_functions_introduction/Mad-lib-unctions.php" beforeDir="false" afterPath="$PROJECT_DIR$/03_functions_introduction/project_mad-lib-unctions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/03_functions_introduction/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/03_functions_introduction/01_introduction_to_php_functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_php_built-in_functions/php_built-in_functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/04_php_built-in_functions/01_intro_to_built-in_php_functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/04_php_built-in_functions/the_hitchhikers_guide_to_php_math_functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/04_php_built-in_functions/project_the_hitchhikers_guide_to_php_math_functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_ordered_arrays/creating_arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/05_ordered_arrays/01_creating_arrays_with__array_and__short-syntax.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05_ordered_arrays/printing_arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/05_ordered_arrays/02_printing_arrays.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +114,7 @@
       <workItem from="1601531008738" duration="11573000" />
       <workItem from="1601878280246" duration="9082000" />
       <workItem from="1601963100183" duration="12445000" />
-      <workItem from="1602049345898" duration="5590000" />
+      <workItem from="1602049345898" duration="6142000" />
     </task>
     <servers />
   </component>
