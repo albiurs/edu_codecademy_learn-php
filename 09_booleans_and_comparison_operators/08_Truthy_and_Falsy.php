@@ -5,7 +5,7 @@
 // In practice, any value or expression in the condition will be converted to TRUE or FALSE. Take a look at the
 // following real, working PHP code:
 if ("What's going on?"){
-    echo "Let us explain…";
+    echo "Let us explain…\n";
 }
 // Prints: Let us explain…
 
@@ -35,7 +35,7 @@ if ("") {
 } elseif ("0") {
     echo "this will not print";
 } else {
-    echo "Finally!";
+    echo "Finally!\n";
 }
 
 // Since none of the conditions above hold truthy values, the code will print Finally!.
@@ -53,22 +53,22 @@ function truthyOrFalsy($value) {
     }
 }
 
-echo truthyOrFalsy(TRUE);
+echo "TRUE returns: " . truthyOrFalsy(TRUE);
 echo "\n\n";
-echo truthyOrFalsy(FALSE);
+echo "FALSE returns: " . truthyOrFalsy(FALSE);
 echo "\n\n";
-echo truthyOrFalsy(null);
+echo "null returns: " . truthyOrFalsy(null);
 echo "\n\n";
-echo truthyOrFalsy("");
+echo "\"\" returns: " . truthyOrFalsy("");
 echo "\n\n";
-echo truthyOrFalsy("0");
+echo "\"0\" returns: " . truthyOrFalsy("0");
 echo "\n\n";
-echo truthyOrFalsy("string");
+echo "\"string\" returns: " . truthyOrFalsy("string");
 echo "\n\n";
-echo truthyOrFalsy([]);
+echo "[] returns: " . truthyOrFalsy([]);
 echo "\n\n";
-echo truthyOrFalsy([1, 2, 3]);
+echo "[1, 2, 3] returns: " . truthyOrFalsy([1, 2, 3]);
 echo "\n\n";
-echo truthyOrFalsy(0);
+echo "0 returns: " . truthyOrFalsy(0);
 echo "\n\n";
-echo truthyOrFalsy(7);
+echo "7 returns: " . truthyOrFalsy(7);

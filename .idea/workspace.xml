@@ -21,15 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8d810663-b3b0-4ea7-a269-fdf45a5a48cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_variables/variables_numbers.php" beforeDir="false" afterPath="$PROJECT_DIR$/02_variables/02_numbers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_variables/variables_strings-and-variables.php" beforeDir="false" afterPath="$PROJECT_DIR$/02_variables/01_strings-and-variables.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02_variables/variables_world-traveler.php" beforeDir="false" afterPath="$PROJECT_DIR$/02_variables/project_world-traveler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_functions_introduction/Mad-lib-unctions.php" beforeDir="false" afterPath="$PROJECT_DIR$/03_functions_introduction/project_mad-lib-unctions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/03_functions_introduction/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/03_functions_introduction/01_introduction_to_php_functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_php_built-in_functions/php_built-in_functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/04_php_built-in_functions/01_intro_to_built-in_php_functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/04_php_built-in_functions/the_hitchhikers_guide_to_php_math_functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/04_php_built-in_functions/project_the_hitchhikers_guide_to_php_math_functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_ordered_arrays/creating_arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/05_ordered_arrays/01_creating_arrays_with__array_and__short-syntax.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05_ordered_arrays/printing_arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/05_ordered_arrays/02_printing_arrays.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_booleans_and_comparison_operators/08_Truthy_and_Falsy.php" beforeDir="false" afterPath="$PROJECT_DIR$/09_booleans_and_comparison_operators/08_Truthy_and_Falsy.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +58,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -77,6 +69,16 @@
       <recent name="$PROJECT_DIR$/11_loops" />
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="08_Truthy_and_Falsy.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/09_booleans_and_comparison_operators/08_Truthy_and_Falsy.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.08_Truthy_and_Falsy.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -140,10 +142,30 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603351272768">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state x="232" y="153" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1536.937@0.23.1536.937" timestamp="1603351272768" />
     <state x="412" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600153643939">
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
     <state x="412" y="-955" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877/-606.-1417.2560.1417@-606.-1417.2560.1417" timestamp="1600153643939" />
+    <state width="1494" height="250" key="GridCell.Tab.0.bottom" timestamp="1603351727435">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1494" height="250" key="GridCell.Tab.0.bottom/0.23.1536.937@0.23.1536.937" timestamp="1603351727435" />
+    <state width="1494" height="250" key="GridCell.Tab.0.center" timestamp="1603351727434">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1494" height="250" key="GridCell.Tab.0.center/0.23.1536.937@0.23.1536.937" timestamp="1603351727434" />
+    <state width="1494" height="250" key="GridCell.Tab.0.left" timestamp="1603351727434">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1494" height="250" key="GridCell.Tab.0.left/0.23.1536.937@0.23.1536.937" timestamp="1603351727434" />
+    <state width="1494" height="250" key="GridCell.Tab.0.right" timestamp="1603351727435">
+      <screen x="0" y="23" width="1536" height="937" />
+    </state>
+    <state width="1494" height="250" key="GridCell.Tab.0.right/0.23.1536.937@0.23.1536.937" timestamp="1603351727435" />
     <state x="352" y="-821" key="NewPhpFileDialog" timestamp="1602051528771">
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
@@ -151,12 +173,13 @@
     <state x="326" y="-821" key="NewPhpFileDialog/0.23.1440.877/-632.-1417.2560.1417@-632.-1417.2560.1417" timestamp="1599575065695" />
     <state x="2398" y="619" key="NewPhpFileDialog/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1599027471502" />
     <state x="539" y="392" key="NewPhpFileDialog/0.23.1440.877@0.23.1440.877" timestamp="1598445727042" />
-    <state x="-239" y="-1293" key="SettingsEditor" timestamp="1599029884095">
-      <screen x="-632" y="-1417" width="2560" height="1417" />
+    <state x="236" y="105" key="SettingsEditor" timestamp="1603351289407">
+      <screen x="0" y="23" width="1536" height="937" />
     </state>
     <state x="-239" y="-1293" key="SettingsEditor/0.23.1440.877/-632.-1417.2560.1417@-632.-1417.2560.1417" timestamp="1599029884095" />
     <state x="1833" y="147" key="SettingsEditor/0.23.1440.877/1440.23.2560.1417@1440.23.2560.1417" timestamp="1599027153880" />
     <state x="221" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1598444766823" />
+    <state x="236" y="105" key="SettingsEditor/0.23.1536.937@0.23.1536.937" timestamp="1603351289407" />
     <state x="339" y="-1092" width="670" height="676" key="search.everywhere.popup" timestamp="1601886484132">
       <screen x="-606" y="-1417" width="2560" height="1417" />
     </state>
